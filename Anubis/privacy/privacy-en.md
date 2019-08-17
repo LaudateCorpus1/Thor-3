@@ -1,7 +1,3 @@
----
-layout: page
----
-
 # Anubis Privacy Policy
 
 Your privacy is important to Anubis. 
